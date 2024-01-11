@@ -1,1 +1,1 @@
-# Telangana-State-Growth-Analysis-Power-BI
+# Telangana State Growth Analysis Power BI
